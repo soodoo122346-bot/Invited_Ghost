@@ -31,14 +31,17 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a not regular player",
-        "Pls give me diamonds",
-        "I like to play Minecraft!"
-      ]
+          "AFK Bot Online!",
+          "Have fun everyone!",
+          "Server is running smoothly.",
+          "Need help? Ask Raj.",
+          "Exploring the world..."
+]
+      
     },
     "chat-log": true,
-    "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "-reconnect": true,
+    "auto-reconnect-delay": 70000,
     "max-reconnect-delay": 120000
   },
   "movement": {
@@ -60,7 +63,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
