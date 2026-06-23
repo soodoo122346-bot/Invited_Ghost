@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm a notregular player",
+        "Pls give me diamonds",
         "I like to play Minecraft!"
       ]
     },
